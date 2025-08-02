@@ -1,0 +1,7 @@
+Java is a high-level, class-based, object-oriented programming language.
+It is designed to have as few implementation dependencies as possible.
+Developers use Java for building cross-platform applications.
+This document is used to test string searching functionality.
+Searching strings in large files can be optimized using BufferedReader.
+The quick brown fox jumps over the lazy dog.
+End of the demo document.
